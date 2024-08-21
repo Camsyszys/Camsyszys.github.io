@@ -12,6 +12,7 @@ h1{
 h2{
     color: rgb(197, 156, 102);
     text-align: center;
+    text-shadow: 1px 1px 1px white;
     font-family: Arial, Helvetica, sans-serif;
 }
 
