@@ -63,4 +63,12 @@ nav a:hover{
 
 }
 
-
+@media (max-width: 580px) {
+    header{
+        text-align: center;
+        padding: 1px 0;
+        background-color: #fff7d8;
+        display: flex;
+        justify-content: space-between;
+    }  
+}

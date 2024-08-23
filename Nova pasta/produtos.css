@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background: rgb(237, 221, 179);
+}
+
+h1{
+    color: rgb(120, 70, 17);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+nav li {
+    display: inline;
+    padding-right:27px ;
+    margin-right: 15px;
+    background-position: center right;
+}
+
+nav a {
+    text-decoration: none;
+    color: #40310bdf;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-size-adjust: ;
+}
+
+nav a:hover{
+    color: #c8be99;
+
+}
