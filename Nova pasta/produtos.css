@@ -9,6 +9,11 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+header{
+    text-align: center;
+    padding: 1px 0;
+    background-color: #fff7d8;
+}
 
 nav li {
     display: inline;
@@ -28,3 +33,31 @@ nav a:hover{
     color: #c8be99;
 
 }
+
+.grid{
+    display: grid;
+    grid-template-columns: 400px 400px;
+    gap: 35px;
+    justify-content: center;
+}
+
+img {
+    max-width: 80%;
+}
+
+.produtos{
+    background-color: #fff7d8;
+    padding: 5px 10px 20px 10px;
+    border-radius: 8px;
+
+}
+
+a{
+    background-color: #d0c084;
+    color: white;
+    text-decoration: none;
+    padding: 18px 26px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
