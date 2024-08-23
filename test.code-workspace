@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../petshop"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "petshop"
+	}
+}
