@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background: rgb(237, 221, 179);
+    background:  rgb(237, 221, 179) ;
 }
 
 h1{
@@ -38,30 +38,28 @@ nav a:active{
     color: hsl(47, 21%, 40%);
 }
 
+.title{
+    text-align: right;
+    font-size: 96px;
+    display: grid;
+    margin-left: 150px
+
+}
+
+img{
+    text-align: left;
+    width: 550px;
+    height: 700px;
+    margin-right: 160px;
+}
+
 .grid{
     display: grid;
     grid-template-columns: 400px 400px;
-    gap: 35px;
-    justify-content: center;
-}
+    padding: calc(15rem/16) ;
+    gap: 10px;
+    margin-left: 130px;
 
-img {
-    max-width: 80%;
-}
-
-.produtos{
-    background-color: #fff7d8;
-    padding: 5px 10px 20px 10px;
-    border-radius: 8px;
-
-}
-
-a{
-    background-color: #d0c084;
-    color: white;
-    text-decoration: none;
-    padding: 18px 26px;
-    border-radius: 10px;
-    display: inline-block;
+    
 }
 
